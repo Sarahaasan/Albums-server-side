@@ -36,4 +36,4 @@ Server Components are the default in the Next.js App Router.
 * TYPESCRIPT
 #DEMO --> https://albums-server-side.vercel.app/
 
-Open `http://localhost:3000`.
+
